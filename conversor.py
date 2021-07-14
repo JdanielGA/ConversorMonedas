@@ -1,5 +1,5 @@
 menu = """
-Bienvenido al conversor de monedas
+Bienvenido al conversor de monedas 💰
 
 1 - De pesos Colombianos a dólares.
 2 - De dólares a pesos Colombianos.
