@@ -1,4 +1,12 @@
-eleccion = input("Bienvenido, ¿Qué moneda deseas convertir: Dólares o Pesos Colombianos 1 para Pesos Colombianos o 2 para Dólares: ")
+menu = """
+Bienvenido al conversor de monedas
+
+1 - De pesos Colombianos a dólares.
+2 - De dólares a pesos Colombianos.
+
+Elige una opción: """
+
+eleccion = input(menu)
 
 if eleccion == "1":
     pesos_colombianos = float(input("¿Cuántos pesos colombianos tienes?: "))
